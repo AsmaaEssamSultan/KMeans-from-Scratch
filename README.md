@@ -1,1 +1,1 @@
-# MLAlgorithms-from-Scratch
+# KMeans-from-Scratch
